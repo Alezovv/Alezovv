@@ -95,8 +95,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alezovv&theme=radical" />
 </p>
 
+
 ---
 
+#### 🏆 [LeetCode Solutions](https://github.com/Alezovv/neetcode-submissions-kd2q4x92)
+*Автоматизированный архив решений алгоритмических задач.*
+* **Статус:** Ежедневная практика алгоритмов и структур данных.
+* **Стек:** C++, Go, Python.
+* **Автоматизация:** Интеграция через NeetCode для синхронизации Accepted-решений.
+
+### 🧩 Алгоритмическая подготовка
+<p align="left">
+  <a href="https://github.com/Alezovv/neetcode-submissions-kd2q4x92">
+    <img src="https://img.shields.io/badge/NeetCode-Roadmap_Progress-00C853?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Solved-13_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Submissions-90-26A5E4?style=for-the-badge" />
+</p>
+
+* **Платформа:** [NeetCode.io](https://neetcode.io/)
+* **Репозиторий с решениями:** [neetcode-submissions](https://github.com/Alezovv/neetcode-submissions-kd2q4x92) — *обновляется автоматически при каждом сабмите.*
+* **Фокус:** blind75
 
 ### 📫 Контакты
 * **Telegram:** [@alezovv](https://t.me/alezovv)
