@@ -77,15 +77,12 @@
 ### 📈 Моя активность на GitHub
 
 <p align="center">
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=alezovv&show_icons=true&title_color=ff4380&icon_color=ff4380&text_color=ffffff&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alezovv&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alezovv&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 <p align="center">
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezovv&layout=compact&title_color=ff4380&icon_color=ff4380&text_color=ffffff&bg_color=0d1117&hide_border=false&langs_count=8" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alezovv&theme=dark&currStreakNum=ff4380&sideLabels=ffffff&stroke=ff4380&fire=ff4380&currStreakLabel=ff4380&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alezovv&theme=radical" />
 </p>
 
 ---
