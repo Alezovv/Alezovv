@@ -110,8 +110,8 @@
   <a href="https://github.com/Alezovv/neetcode-submissions-kd2q4x92">
     <img src="https://img.shields.io/badge/NeetCode-Roadmap_Progress-00C853?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Solved-13_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Submissions-90-26A5E4?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Solved&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAlezovv%2Fneetcode-submissions-kd2q4x92%2Fcontents%2FData%2520Structures%2520%2526%2520Algorithms&logo=leetcode&logoColor=black&color=FFA116" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Submissions&query=%24%5B0%5D.contributions&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAlezovv%2Fneetcode-submissions-kd2q4x92%2Fcontributors&color=26A5E4" />
 </p>
 
 * **Платформа:** [NeetCode.io](https://neetcode.io/)
