@@ -114,6 +114,8 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Submissions&query=%24%5B0%5D.contributions&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAlezovv%2Fneetcode-submissions-kd2q4x92%2Fcontributors&color=26A5E4" />
 </p>
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alezovv&repo=neetcode-submissions-kd2q4x92&theme=dracula&bg_color=0d1117&hide_border=true&color=00C853)
+
 * **Платформа:** [NeetCode.io](https://neetcode.io/)
 * **Репозиторий с решениями:** [neetcode-submissions](https://github.com/Alezovv/neetcode-submissions-kd2q4x92) — *обновляется автоматически при каждом сабмите.*
 * **Фокус:** blind75
